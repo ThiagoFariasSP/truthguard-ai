@@ -1,3 +1,4 @@
+
 # TruthGuard AI
 
 TruthGuard AI is a Machine Learning project built with Python and Scikit-Learn to classify news articles as **REAL** or **FAKE** based on textual content.
@@ -301,3 +302,7 @@ This project was developed to explore:
 Technology professional passionate about Artificial Intelligence, Machine Learning, Automation, and Data Analytics.
 
 This project was developed as a hands-on initiative to explore NLP and Machine Learning concepts using Python.
+
+# truthguard-ai
+Machine Learning-powered fake news detection platform built with Python, Scikit-Learn and Streamlit.
+>>>>>>> 4ccdede1fb10b9979dd2aa9aae82aac6d66622c3

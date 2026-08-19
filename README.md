@@ -249,11 +249,11 @@ Confidence: 95.4%
 
 ### Most Likely Fake
 
-most%20likely%20fake.png
+most-likely-fake.png
 
 ### Most Likely Real
 
-most%20likely%20real.png
+most-likely-real.png
 
 ## Sample Dataset
 
